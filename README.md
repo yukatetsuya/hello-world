@@ -1,3 +1,3 @@
 # hello-world
-my first GitHub
-hello world. thankyou
+## my first GitHub
+- hello world. thankyou
